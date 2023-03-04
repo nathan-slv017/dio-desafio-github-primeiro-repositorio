@@ -8,4 +8,4 @@ O Git é um sistema de controle de versão de arquivos, criado pelo desenvolvedo
 #Download
 
 veja no [site de download do git]
-(https://git-scm.com/downloads) para intalar 
+(https://git-scm.com/downloads) para instalar 
